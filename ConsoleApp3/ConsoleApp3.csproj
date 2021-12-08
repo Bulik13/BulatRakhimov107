@@ -8,6 +8,8 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <Compile Include="C:\Users\Bulat\Documents\GitHub\BulatRakhimov107\hw1\Program.cs" Link="Program.cs" />
+    <Compile Include="C:\Users\Bulat\Documents\GitHub\BulatRakhimov107\hw1\RationalFraction.cs" Link="RationalFraction.cs" />
     <Compile Include="C:\Users\Bulat\Documents\GitHub\BulatRakhimov107\Program.cs" Link="Program.cs" />
   </ItemGroup>
 
