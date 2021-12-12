@@ -6,6 +6,9 @@ using System.Threading.Tasks;
 
 namespace ConsoleApp3.hw2_LivingWay_
 {
+    /// <summary>
+    /// треугольник
+    /// </summary>
     public class Triangle
     {
         /// <summary>
